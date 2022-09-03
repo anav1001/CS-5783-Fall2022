@@ -1,0 +1,2 @@
+Problem statement:
+You and a friend go to buy tacos. You get three soft tacos and three burritos and your total bill is $11.25. Your friend's bill is $10.00 for four soft tacos and two burritos. How much do soft tacos cost? How much do burritos cost?
