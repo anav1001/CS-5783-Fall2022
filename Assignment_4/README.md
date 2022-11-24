@@ -1,6 +1,7 @@
 For Problem 1, I used the xlrd package. I tested the notebook on Colab and it works fine. However, it gave me some problem with the version of the package, so I updated them with the following commands:
 
 !pip install --upgrade xlrd
+
 !pip install --upgrade pandas
 
 After this, I restarted the kernel and everything worked out.
