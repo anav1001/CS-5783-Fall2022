@@ -8,7 +8,7 @@ After this, I restarted the kernel and everything worked out.
 For Problems 2 and 3, I imported the csv files as:
 
 train_data = pd.read_csv("content/drive/MyDrive/Data_train.csv")
-test_data = pd.read_csv("content/drive/MyDrive/Data_test.csv")
+test_data = pd.read_csv("content/drive/MyDrive/Data_test.csv") 
 
 For some reason, Colab could not load the files so I used the following lines.
 
